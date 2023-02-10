@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: utyarr/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-nabcwrad
     replicaCount: 2
     hpa:
       enabled: true
