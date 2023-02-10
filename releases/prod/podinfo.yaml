@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: utyarr/podinfo
-      tag: 0.4.11
+      tag: 0.4.44
     replicaCount: 3
