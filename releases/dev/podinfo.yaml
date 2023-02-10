@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: utyarr/podinfo
-      tag: dev-altmobqu
+      tag: dev-nabcwrad
     replicaCount: 1
     hpa:
       enabled: false
